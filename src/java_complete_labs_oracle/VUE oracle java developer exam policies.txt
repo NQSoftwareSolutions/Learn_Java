@@ -1,0 +1,50 @@
+Oracle Certification Program Policies
+System Requirements
+This exam can only be taken if all of the system requirements listed below are met.
+
+Operating system: Windows 10, Windows 8.1, Windows 7, Mac OS X 10.9 or higher
+Display: 1024 x 768 in 16-bit color (minimum resolution)
+Internet connection: You will need a sustained, high-speed internet connection for the duration of the exam.
+Internet browsers: Internet Explorer 11, Chrome, Firefox and Safari latest version
+Browser settings: Cookies must be enabled. Pop-up blockers must be disabled.
+Admission Policy
+Please note this exam is proctored in English or Japanese only.
+
+PERFORM A SYSTEM TEST (Prior to Exam Day):
+
+Please follow this link to perform a SYSTEM TEST from the same computer and location you will be testing from on exam day: http://www.pearsonvue.com/oracle/op/. Ensure you have administrative rights on your computer to be able to download the software.
+
+If your system does not meet the requirements please register to take the exam at a testing center. If your computer is found not to meet requirements on the exam day you are unlikely to receive a refund.
+
+REVIEW EXAM INFORMATION (Prior to Exam Day):
+
+Please follow this link http://www.pearsonvue.com/oracle/op/ to find information on:
+
+Exam policies
+System requirements
+Admission steps.
+Be sure that you are familiar with the work area requirements before the day of your exam
+
+REVIEW ID POLICIES (Prior to Exam Day):
+
+Carefully review the ID requirements prior to your exam appointment using this link.
+
+It is very important that you take a moment to ensure the name you have used to create your profile exactly matches the name that is on the IDs you will present at the testing center on the day of the exam. Check that now and submit a request immediately if you need to update the name on your account.
+
+Name change requests should be submitted at least 4 days prior to your exam appointment.
+START YOUR EXAM:
+
+We recommend logging in 15 minutes early to start the check-in process. YOU WILL ONLY HAVE up to 15 minutes after your scheduled appointment time to begin the exam process.
+Please note you are required to have a clean and clutter free workstation. During check-in, the Greeter will ask you to perform a room and desk scan and will inspect any materials near your workstation.
+
+This exam admission process also includes the following Enhanced Security Protocol admission steps: Digital Photograph
+
+Reschedule Policy
+If you wish to reschedule your exam appointment, you must reschedule at least 24 hours prior to your appointment. Rescheduling an exam less than 24 hours before an exam appointment is subject to a same-day forfeit exam fee. Full exam fees are due for no-shows. Please note that you are able to reschedule an exam appointment only five times. If you need to reschedule a sixth time you must first cancel the current appointment.
+
+If you need to reschedule or cancel your exam, sign in to CertView and select the option to Manage Exam at Pearson VUE.
+
+Cancellation Policy
+If you wish to cancel your exam appointment, you must cancel at least 24 hours prior to your exam appointment. Canceling an exam less than 24 hours before scheduled exam is subject to a same-day forfeit exam fee. Full exam fees are due for no-shows.
+
+If you need to reschedule or cancel your exam, sign in tojw and select the option to Manage Exam at Pearson VUE.

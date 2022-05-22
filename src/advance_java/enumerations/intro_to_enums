@@ -1,0 +1,18 @@
+
+Why we need enumerations
+    Day make for clearer and more readable code,
+    particularly when meaningful names are used.
+    The benefits of using enumerations include:
+        Reduces errors caused by transposing or mistyping numbers.
+        Makes it easy to change values in the future.
+
+
+Intro to enumerations or enum types
+    An Enum is a language construct that is used to defined type-safe enumerations or
+    variables (Variables of enum types)
+    Enums are:
+         By default constant so we can not change them.
+         Enumeration means a list of named constant.
+    In Java, enumeration defines a class type.
+    An Enumeration can have constructors, methods and instance variables.
+    It is created using enum keyword.
